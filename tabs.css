@@ -1,0 +1,64 @@
+body{
+               background-color: #F3F3F3;
+        }
+        .fa {
+          position: relative;
+          left: -32px;
+          font-size: 30px;
+          width: 50px;
+          text-align: center;
+          text-decoration: none;
+        }
+    .container{
+            margin-top: 65px;
+            margin-left: 10px;
+          }
+        #move{
+          position: relative;
+          left: 25px;
+        }
+        .container a{
+            color: #142B72;    
+          }
+        .container a:hover{
+            color: brown;  
+            text-decoration: none;
+        }
+        .navSpace{
+            position: relative;
+            left: 14px;
+            margin-right: 65px;
+        }
+        
+        #homeImg{
+            position: relative;
+            top: -95px; 
+            left:85px;
+            width:545px;
+            height: 580px;
+            float: right;
+        }
+        #firstText{
+            position: relative;
+            left: 10px; 
+        }
+    #about{
+        color: #1087b2;
+        width: 600px;
+    }
+    #internshipImg{
+        position: relative;
+        top:-30em;
+        width: 650px;
+        left: 100px;
+        height: 410px;
+        float: right;
+    }
+    #resounceImg{
+        position: relative;
+        top:-18em;
+        width: 440px;
+        left: 100px;
+        height: 420px;
+        float: right;
+    }
